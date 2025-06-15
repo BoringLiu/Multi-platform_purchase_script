@@ -1,0 +1,12 @@
+{
+  "server_url": "http://127.0.0.1:4723",
+  "keyword": "wanglihong",
+  "users": [
+    "刘宝瑞"
+  ],
+  "city": "北京",
+  "date": "6.20",
+  "price": "看台1080元",
+  "if_commit_order": false,
+  "time": "15:29:00"
+}
