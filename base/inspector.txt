@@ -1,0 +1,12 @@
+{
+  "platformName": "Android",
+  "appium:deviceName": "d28c095a",
+  "appium:automationName": "UiAutomator2",
+  "appium:appPackage": "cn.damai",
+  "appium:appActivity": ".launcher.splash.SplashMainActivity",
+  "appium:noReset": true,
+  "appium:newCommandTimeout": 6000,
+  "appium:disableHiddenApiPolicyError": true,
+  "appium:skipServerInstallation": false,
+  "appium:disableIdLocatorAutocompletion": true
+}

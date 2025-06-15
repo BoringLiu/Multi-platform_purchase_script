@@ -1,0 +1,11 @@
+
+服务器启动
+appium server -ka 800 -pa /wd/hub --allow-cors --relaxed-security
+查看设备列表
+adb devices
+
+
+虚拟环境
+conda activate base 
+cd C:\Users\12274\Desktop\ticket-purchase-master\ticket-purchase-master\damai_appium
+python damai_app.py
