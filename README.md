@@ -1,4 +1,4 @@
-# Mutiple-platform-script-for-ticket
+# Multi-platform purchase script
 基于原作者WECENG思路重新编写的大麦脚本
 原作者的代码通用性较为一般,但是提供了充足的思路。\br
 基于租赁的小米12以及安卓14系统，重新编写了识别以及抢票逻辑。
