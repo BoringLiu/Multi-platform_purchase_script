@@ -69,7 +69,7 @@ auto_commit = config.if_commit_order
 
 #X:777 Y:2275 coordinates
 # =================== 参数 ===================
-CLICK_X, CLICK_Y = 777, 2275          # 你的坐标
+CLICK_X, CLICK_Y = 777, 2225          # 你的坐标
 TARGET_TIME_STR = config.time  # 到此时间开始点
 CLICK_INTERVAL = 0.01                 # 点一次休眠（秒）
 
