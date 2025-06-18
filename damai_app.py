@@ -177,6 +177,7 @@ while True:
                         checked_count += 1
                     else:
                         print(f"已勾选: {name}")
+                        checked_count += 1
             except Exception as e:
                 print(f"解析购票人卡片失败: {e}")
         # 提交订单
